@@ -1,0 +1,7 @@
+C:\Users\Jon\source\repos\ADUsageDemo\ADUsageDemo\obj\Release\net8.0\PubTmp\Out\ADUsageDemo.exe
+C:\Users\Jon\source\repos\ADUsageDemo\ADUsageDemo\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Jon\source\repos\ADUsageDemo\ADUsageDemo\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\Jon\source\repos\ADUsageDemo\ADUsageDemo\obj\Release\net8.0\PubTmp\Out\ADUsageDemo.dll
+C:\Users\Jon\source\repos\ADUsageDemo\ADUsageDemo\obj\Release\net8.0\PubTmp\Out\ADUsageDemo.deps.json
+C:\Users\Jon\source\repos\ADUsageDemo\ADUsageDemo\obj\Release\net8.0\PubTmp\Out\ADUsageDemo.runtimeconfig.json
+C:\Users\Jon\source\repos\ADUsageDemo\ADUsageDemo\obj\Release\net8.0\PubTmp\Out\ADUsageDemo.pdb
